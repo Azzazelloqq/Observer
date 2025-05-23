@@ -1,0 +1,21 @@
+{
+  "name": "com.azzazello.observer",
+  "version": "0.0.1",
+  "displayName": "MVVM",
+  "description": "Simple Observer pattern",
+  "unity": "2020.3",
+  "dependencies": {
+	  },
+  "keywords": [
+    "Observe",
+    "Observer",
+    "Event",
+    "Events",
+    "EventBus"
+  ],
+  "author": {
+    "name": "Azzazelloqq",
+    "email": "bog22232@ya.ru",
+    "url": "https://github.com/Azzazelloqq"
+  }
+}
