@@ -56,7 +56,16 @@ Observer/
 ### Installation
 
 ```bash
-dotnet add package Azzazelloqq.Observer
+Installation can be done in two ways:
+
+- **Manual (all platforms)**: Clone or download this repository and add the `src/Azzazelloqq.Observer.Runtime` folder into your project.
+- **Unity (UPM)**: Add to your `Packages/manifest.json` either:
+  ```json
+  "com.azzazelloqq.observer": "https://github.com/Azzazelloqq/Observer.git#1.0.0"
+  ```
+  or simply:
+  ```json
+  "com.azzazelloqq.observer": "https://github.com/Azzazelloqq/Observer.git"
 ```
 
 ### Basic Usage
